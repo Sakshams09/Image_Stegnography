@@ -8,7 +8,7 @@ from encrypt2 import *
 
 class Stegno:
 
-    art = 'by: Tanmay Kumar'
+    art = 'by: Saksham Singh'
     output_image_size = 0
     global txt_font
     txt_font='arial'
